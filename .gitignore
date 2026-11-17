@@ -1,0 +1,35 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases and vector storage
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+
+# Uploaded personal documents
+documents/
+
+# AI development configurations
+.agents/
+.claude/
+
+# Editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
