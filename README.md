@@ -79,7 +79,7 @@ Personal-RAG/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/rithubaran1995-eng/Personal-Study-Assistant.git
 cd Personal-RAG
 ```
 
