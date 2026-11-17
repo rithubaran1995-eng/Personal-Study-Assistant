@@ -18,6 +18,20 @@ Built using Python, Streamlit, Retrieval-Augmented Generation (RAG), ChromaDB, F
 - Save and manage conversation history using SQLite.
 - ChatGPT-inspired dark user interface.
 
+## Application Screenshots
+
+### 1. Home Screen
+![Application Home Screen](screenshots/home.png)
+
+### 2. PDF Upload
+![PDF Upload](screenshots/pdf-upload.png)
+
+### 3. AI Chat Response
+![AI Chat Response](screenshots/chat-response.png)
+
+### 4. Source References
+![Source References](screenshots/source-citations.png)
+
 ## Technologies Used
 
 | Technology | Purpose |
